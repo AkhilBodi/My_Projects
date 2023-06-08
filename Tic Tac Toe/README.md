@@ -6,6 +6,5 @@ Also as i said in the beginning this is my first project, so please do share you
 Thank you so much for your time :)
 
 
-
-
-Image credits : Medium
+[Tic_tac_toe svg](https://github.com/AkhilBodi/My_Projects/assets/54629845/a5a0bf6e-fc03-4ed5-a9d0-44ef740fa84a)
+Image credits : Wikipedia
