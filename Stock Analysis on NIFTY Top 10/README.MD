@@ -5,6 +5,6 @@ Images: ![Openings](https://github.com/AkhilBodi/My_Projects/assets/54629845/233
 ![Profit_or_Loss](https://github.com/AkhilBodi/My_Projects/assets/54629845/ce134c72-be7a-437b-94a0-9d0cf23b8db1)
 ![Portfolio](https://github.com/AkhilBodi/My_Projects/assets/54629845/71fd82e0-b02e-4a18-954a-f262feb40b85)
 
-CREDITS : https://www.analyticsvidhya.com/blog/2022/06/python-stock-analysis-for-beginners/
-
 DATA : https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
+
+CREDITS : https://www.analyticsvidhya.com/blog/2022/06/python-stock-analysis-for-beginners/
