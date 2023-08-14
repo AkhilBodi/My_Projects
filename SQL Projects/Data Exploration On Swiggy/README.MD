@@ -14,7 +14,3 @@ This swiggy dataset consists data of the cities Bangalore and Ahmedabad which is
 ## Acknowledgements
 
  - [CloudyML](https://www.youtube.com/watch?v=3Gptq4VYEW4)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
