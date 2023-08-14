@@ -1,7 +1,7 @@
 
 # Data Exploration On Swiggy 
 
-Hey There. This is my first SQL project on swiggy. As my first project i wanted to explore the data as it is the first step in data analysis. Reason behind choosing this particular dataset is that it is beginner friendly and at the same time challenging and fun. This project helped me to recall and practice all the basic statements and taught me the significance of DISTINCT,CASE & HAVING statements .  This is a scenario based project where every query answers a certain question. Both the data and the questions can be found [here](https://drive.google.com/drive/folders/1uIHmw2vkNthAma9eKnmqKmEba7z_6D0B?usp=sharing). Also huge thanks to CloudyMl for their contribution to the data community.
+Hey There. This is my first SQL project. As my first project i wanted to explore the data as it is the first step in data analysis. Reason behind choosing this particular dataset is that it is beginner friendly and at the same time challenging and fun. This project helped me to recall and practice all the basic statements and taught me the significance of DISTINCT,CASE & HAVING statements .  This is a scenario based project where every query answers a certain question. Both the data and the questions can be found [here](https://drive.google.com/drive/folders/1uIHmw2vkNthAma9eKnmqKmEba7z_6D0B?usp=sharing). Also huge thanks to CloudyMl for their contribution to the data community.
 ## About the data:
 
 
