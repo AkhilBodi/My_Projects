@@ -8,7 +8,7 @@ Hey There. This is my first SQL project on swiggy. As my first project i wanted 
 
 This swiggy dataset consists data of the cities Bangalore and Ahmedabad which is of 50000(fifty thousand) rows with columns  - "restaurant_no, restaurant_name,	city,	address,	rating,	cost_per_person,	cuisine,	restaurant_link,	menu_category,	item,	price,	veg_or_non-veg" in a csv file where the restaurant_no is the unique id of that particular restaurant and the rest are self-explanatory.
 ## Screenshot
-![Screenshot](https://github.com/AkhilBodi/My_Projects/blob/main/SQL%20Projects/Data%20Exploration%20On%20Swiggy/Screenshot%20from%202023-08-14%2019-56-38.png)
+![Query Screenshot](https://github.com/AkhilBodi/My_Projects/blob/main/SQL%20Projects/Data%20Exploration%20On%20Swiggy/Query%20Screenshot.png)
 
 
 ## Acknowledgements
