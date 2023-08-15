@@ -14,7 +14,6 @@ CREATE TABLE swiggy_data(
   ,price           VARCHAR(12) NOT NULL
   ,veg_or_nonveg   VARCHAR(7)
 );
--- The below 
 -- LOAD DATA LOCAL INFILE
 -- "Path"
 -- INTO TABLE Swiggy.swiggy_data
