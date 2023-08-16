@@ -15,7 +15,7 @@ CREATE TABLE swiggy_data(
   ,veg_or_nonveg   VARCHAR(7)
 );
 -- LOAD DATA LOCAL INFILE
--- "Path"
+-- " File Path"
 -- INTO TABLE Swiggy.swiggy_data
 -- FIELDS TERMINATED BY ','
 -- ENCLOSED BY '"'
