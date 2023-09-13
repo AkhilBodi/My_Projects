@@ -1,1 +1,16 @@
-![Alt image](https://github.com/AkhilBodi/My_Projects/blob/main/Excel%20Projects/Bike%20Sales%20Dashboard/screenshot_bike_sales.png)
+
+# Bike Sales Dashboard 
+
+Hey There. This is a my First Excel dashboard project, on Bike Sales. With the help of this project, i learned probably everything a beginner must and that the basics that which are used in excel. Also this particular one being my first excel project made it special and also easy. Chose this particular project to learn how to build a dashborad and to learn how to use different graphs. Did the project from [this](https://www.youtube.com/watch?v=opJgMj1IUrc) tutorial.
+## Screenshot
+
+![image screenshot](https://github.com/AkhilBodi/My_Projects/blob/main/Excel%20Projects/Bike%20Sales%20Dashboard/screenshot_bike_sales.png)
+
+
+## About the data
+
+The data and everything about it can be found [here](https://www.youtube.com/watch?v=opJgMj1IUrc).
+## Acknowledgements
+
+ - [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
+
