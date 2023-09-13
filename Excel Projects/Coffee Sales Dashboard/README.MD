@@ -1,4 +1,4 @@
-# Covid Data Exploration 
+# Coffee Sales Dashboard 
 
 Hey There. This is a my Second Excel dashboard project, this time on Coffee Sales. With the help of this project, i learned more about the functions like XLOOKUP & INDEX. Also the teaching i will carry forward from this project is the importance of *Colour*. Chose this particular project to learn how to build a simple yet self-speaking dashborad. Did the project from [this](https://www.youtube.com/watch?v=m13o5aqeCbM) tutorial.
 ## Screenshot
