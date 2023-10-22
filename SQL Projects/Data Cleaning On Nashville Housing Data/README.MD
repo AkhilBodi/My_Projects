@@ -5,7 +5,6 @@ Hey There. This is my first project on data cleaning in SQL. As a beginner to th
 ## Screenshot
 ![Query Screenshot](https://github.com/AkhilBodi/My_Projects/blob/main/SQL%20Projects/Data%20Cleaning%20On%20Nashville%20Housing%20Data/data_cleaning_query.png)
 
-![Query Screenshot](https://github.com/AkhilBodi/My_Projects/blob/main/SQL%20Projects/Data%20Cleaning%20On%20Nashville%20Housing%20Data/data_cleaning_query.png)
 
 ## About the data
 
