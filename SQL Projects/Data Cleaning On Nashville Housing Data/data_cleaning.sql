@@ -1,13 +1,13 @@
-use housing_data_cleaning;
-LOAD DATA LOCAL INFILE
-'File Path'
-INTO TABLE housing_data_cleaning.housing_data
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\r\n'
-IGNORE 1 LINES;
+-- use housing_data_cleaning;
+-- LOAD DATA LOCAL INFILE
+-- 'File Path'
+-- INTO TABLE -- housing_data_cleaning.housing_data
+-- FIELDS TERMINATED BY ','
+-- ENCLOSED BY '"'
+-- LINES TERMINATED BY '\r\n'
+-- IGNORE 1 LINES;
 
-select * from housing_data;
+SELECT * from housing_data;
 
 -- Standardizing The Date Format
 
