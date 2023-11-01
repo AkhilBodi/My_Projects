@@ -1,8 +1,3 @@
-use data_exp;
-select * from data_exp.CovidDeaths;
-select * from data_exp.CovidVaccinations;
--- ALTER TABLE covid_vaccinations RENAME CovidVaccinations;
-
 -- LOAD DATA LOCAL INFILE
 -- 'Documents/Data Science/Journey/Projects/CovidDeaths.csv'
 -- INTO TABLE data_exp.CovidDeaths
