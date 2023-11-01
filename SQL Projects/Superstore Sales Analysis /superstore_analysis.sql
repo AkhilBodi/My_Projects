@@ -1,11 +1,11 @@
-SET GLOBAL local_infile=TRUE;
-LOAD DATA LOCAL INFILE
-'File Path'
-INTO TABLE superstore.superstore_data
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\r\n'
-IGNORE 1 LINES;
+-- SET GLOBAL local_infile=TRUE;
+-- LOAD DATA LOCAL INFILE
+-- 'File Path'
+-- INTO TABLE superstore.superstore_data
+-- FIELDS TERMINATED BY ','
+-- ENCLOSED BY '"'
+-- LINES TERMINATED BY '\r\n'
+-- IGNORE 1 LINES;
 
 SELECT * FROM superstore_data;
 
