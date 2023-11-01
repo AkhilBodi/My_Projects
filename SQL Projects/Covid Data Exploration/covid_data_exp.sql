@@ -1,5 +1,5 @@
 -- LOAD DATA LOCAL INFILE
--- 'Documents/Data Science/Journey/Projects/CovidDeaths.csv'
+-- 'File Path'
 -- INTO TABLE data_exp.CovidDeaths
 -- FIELDS TERMINATED BY ','
 -- ENCLOSED BY '"'
