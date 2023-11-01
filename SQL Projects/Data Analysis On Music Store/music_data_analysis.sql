@@ -1,12 +1,12 @@
-set global local_infile=true;
-USE music_store;
-LOAD DATA LOCAL INFILE
-'File Path'
-INTO TABLE music_store.album
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\r\n'
-IGNORE 1 LINES;
+-- set global local_infile=true;
+-- USE music_store;
+-- LOAD DATA LOCAL INFILE
+-- 'File Path'
+-- INTO TABLE music_store.album
+-- FIELDS TERMINATED BY ','
+-- ENCLOSED BY '"'
+-- LINES TERMINATED BY '\r\n'
+-- IGNORE 1 LINES;
 
 -- 1.1
 SELECT * FROM employee
