@@ -1,4 +1,3 @@
-use superstore;
 SET GLOBAL local_infile=TRUE;
 LOAD DATA LOCAL INFILE
 'File Path'
