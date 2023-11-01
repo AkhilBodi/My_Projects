@@ -1,7 +1,7 @@
 -- use housing_data_cleaning;
 -- LOAD DATA LOCAL INFILE
 -- 'File Path'
--- INTO TABLE -- housing_data_cleaning.housing_data
+-- INTO TABLE housing_data_cleaning.housing_data
 -- FIELDS TERMINATED BY ','
 -- ENCLOSED BY '"'
 -- LINES TERMINATED BY '\r\n'
