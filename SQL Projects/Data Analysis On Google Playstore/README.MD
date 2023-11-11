@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on the Google Play Stor
 
 ## About the data
 
-The dataset used for this analysis is based on Google Play Store data from 2018. It includes information about app categories, ratings, installs, reviews, size of the apps, and more. The data and more about it can be found [here](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
+The dataset used for this analysis is based on Google Play Store. It includes information about app categories, ratings, installs, reviews, size of the apps, and more. The data and more about it can be found [here](https://www.kaggle.com/datasets/lava18/google-play-store-apps).
 
 ## Questions Explored
 
