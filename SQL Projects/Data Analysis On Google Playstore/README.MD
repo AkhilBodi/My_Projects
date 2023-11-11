@@ -57,7 +57,7 @@ The dataset used for this analysis is based on Google Play Store data from 2018.
 24. Average Number of Installs per Day for the Top 10 Apps
 
 ## Lessons Learned
-This is my first project all by myself. This project helped me to recall and practice all my learnings. Got to know what I am good at and what to practice more. Yes, can analyze more, can write more efficiently, will for sure do that in future.
+This is my first project all by myself. This project helped me to recall and practice all my learnings. Got to know what I am good at and what to practice more. Yes, can analyze more, can write more efficiently, will for sure do that and update.
 
 ## Conclusion
 
