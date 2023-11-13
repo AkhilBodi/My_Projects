@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains a data analysis project focused on the Google Play Store data from the year 2018. The analysis explores various aspects of app performance, user engagement, and trends within different categories and genres.
+This data analysis project focused on the Google Play Store data from the year 2018. The analysis explores various aspects of app performance, user engagement, and trends within different categories and genres.
 
 ## About The Data
 
